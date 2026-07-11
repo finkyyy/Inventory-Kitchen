@@ -1,6 +1,6 @@
 # 📦 Inventaris Dapur
 
-Aplikasi web sederhana untuk mencatat dan mengelola stok bahan-bahan dapur (seperti bumbu, protein, bahan susu, dll). Cocok dipakai untuk dapur rumahan, katering kecil, atau restoran yang ingin tahu bahan apa saja yang tersedia dan berapa jumlahnya, tanpa perlu mencatat manual di kertas.
+Website sederhana untuk mencatat dan mengelola stok bahan-bahan dapur (seperti bumbu, protein, bahan susu, dll). Cocok dipakai untuk dapur rumahan, katering kecil, atau restoran yang ingin tahu bahan apa saja yang tersedia dan berapa jumlahnya, tanpa perlu mencatat manual di kertas.
 
 🔗 **Coba langsung:** [inventaris-dapur.rf.gd/PRAKTIK/tampilan.php](https://inventaris-dapur.rf.gd/PRAKTIK/tampilan.php?i=1)
 
