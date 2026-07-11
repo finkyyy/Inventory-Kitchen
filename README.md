@@ -10,7 +10,7 @@ Website sederhana untuk mencatat dan mengelola stok bahan-bahan dapur (seperti b
 
 Bayangkan aplikasi ini seperti **buku catatan stok dapur, tapi versi digital**. Alih-alih menulis di kertas atau buku tulis "Telur Ayam - 30 butir", semua data disimpan rapi di dalam sebuah tabel di website, dan bisa diubah/dihapus kapan saja hanya dengan beberapa klik.
 
-Karena aplikasi ini berbentuk **web** (bukan aplikasi yang harus di-download), siapa pun bisa membukanya lewat browser (Chrome, Firefox, dll) tanpa perlu instalasi apa pun — cukup buka link-nya saja.
+Karena ini berbentuk **Website** (bukan aplikasi yang harus di-download), siapa pun bisa membukanya lewat browser (Chrome, Firefox, dll) tanpa perlu instalasi apa pun cukup buka link-nya saja.
 
 ---
 
@@ -19,12 +19,12 @@ Karena aplikasi ini berbentuk **web** (bukan aplikasi yang harus di-download), s
 ### 1. 📋 Lihat Daftar Bahan
 Halaman utama menampilkan semua bahan dapur dalam bentuk tabel yang rapi, lengkap dengan kolom: **Nama Bahan**, **Kategori** (misalnya Protein, Bumbu, Dairy), **Stok**, dan **Satuan** (kg, gram, butir, ikat, dll).
 
-> 💬 *Ulasan:* Tampilannya bersih dan mudah dibaca — cocok buat yang tidak terbiasa dengan sistem rumit. Setiap kategori diberi label warna hijau kecil supaya gampang dikenali sekilas.
+> 💬 *Ulasan:* Tampilannya bersih dan mudah dibaca, cocok buat yang tidak terbiasa dengan sistem rumit. Setiap kategori diberi label warna hijau kecil supaya gampang dikenali sekilas.
 
 ### 2. 🔎 Filter Berdasarkan Kategori
 Ada dropdown "Semua Kategori" di bagian atas tabel, yang memungkinkan pengguna menyaring daftar bahan berdasarkan jenisnya (misalnya hanya menampilkan bahan kategori "Bumbu" saja).
 
-> 💬 *Ulasan:* Fitur ini sangat membantu kalau daftar bahan sudah banyak — jadi tidak perlu scroll panjang untuk mencari satu jenis bahan tertentu.
+> 💬 *Ulasan:* Fitur ini sangat membantu kalau daftar bahan sudah banyak, jadi tidak perlu scroll panjang untuk mencari satu jenis bahan tertentu.
 
 ### 3. ➕ Tambah Bahan Baru
 Tombol **"+ Bahan Baru"** di pojok kanan atas akan membuka form untuk menambahkan bahan dapur baru. Pengguna tinggal mengisi kategori, nama bahan, jumlah stok, dan satuannya, lalu klik **"Simpan Data"**.
@@ -34,7 +34,7 @@ Tombol **"+ Bahan Baru"** di pojok kanan atas akan membuka form untuk menambahka
 ### 4. ✏️ Edit Bahan
 Setiap baris data punya tombol **"Edit"** berwarna kuning. Saat diklik, akan muncul form yang sudah otomatis terisi dengan data lama, sehingga pengguna tinggal mengubah bagian yang perlu diperbarui saja (misalnya update jumlah stok setelah belanja).
 
-> 💬 *Ulasan:* Sangat praktis — tidak perlu mengetik ulang semua data dari awal, cukup ubah angka stoknya lalu simpan.
+> 💬 *Ulasan:* Sangat praktis, tidak perlu mengetik ulang semua data dari awal, cukup ubah angka stoknya lalu simpan.
 
 ### 5. 🗑️ Hapus Bahan
 Tombol **"Hapus"** berwarna merah akan menghapus data bahan dari daftar. Sebelum benar-benar terhapus, akan muncul kotak konfirmasi bertuliskan **"Yakin?"** agar tidak ada data yang terhapus secara tidak sengaja.
