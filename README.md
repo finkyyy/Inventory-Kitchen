@@ -58,7 +58,7 @@ Tombol **"Hapus"** berwarna merah akan menghapus data bahan dari daftar. Sebelum
 
 Tidak perlu instalasi apa pun, cukup ikuti langkah berikut lewat browser:
 
-1. **Buka link aplikasi** di atas.
+1. **Buka link Website** di atas.
 2. Untuk **melihat stok**, cukup lihat tabel yang muncul di halaman utama (`tampilan.php`).
 3. Untuk **menyaring bahan** berdasarkan kategori, klik dropdown "Semua Kategori" dan pilih kategori yang diinginkan.
 4. Untuk **menambah bahan baru**, klik tombol **"+ Bahan Baru"**, isi form, lalu klik **"Simpan Data"**.
@@ -85,8 +85,8 @@ Jika ingin menjalankan proyek ini secara lokal (misalnya lewat XAMPP/Laragon), b
 1. Install aplikasi server lokal seperti **XAMPP** atau **Laragon**.
 2. Letakkan seluruh folder proyek ke dalam folder `htdocs` (jika pakai XAMPP).
 3. Buka **phpMyAdmin**, buat database baru, lalu buat dua tabel berikut:
-   - `kategori_bahan` — menyimpan daftar kategori (misalnya Protein, Bumbu, Dairy).
-   - `bahan_baku` — menyimpan data bahan dapur (nama, stok, satuan, dan kategori).
+   - `kategori_bahan` menyimpan daftar kategori (misalnya Protein, Bumbu, Dairy).
+   - `bahan_baku` menyimpan data bahan dapur (nama, stok, satuan, dan kategori).
 4. Sesuaikan nama database, username, dan password di file `koneksi.php` dengan pengaturan database di komputer kamu.
 5. Jalankan Apache & MySQL dari XAMPP, lalu buka `http://localhost/PRAKTIK/tampilan.php` di browser.
 
